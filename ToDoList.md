@@ -8,14 +8,14 @@
             - [x] geef hem een id
         - [] interactie programmeren
             - [x] knopje selecteren document.getElementById
-            - [] Voeg event listner toe "button".addEventListner
-            - [] Event handler async functie maken, die wordt uigevoerd als je klikt
-        - [] requist naar de api 
-            - [] axios installeren/importeren
-            - [] url opzoeken voor beldie (api docs)
-            - [] axios.get(url)     
-            - [] Await ervoor zetten (anders krijg je een promise)
-            - [] we hebben de data (loggen)
+            - [x] Voeg event listner toe "button".addEventListner
+            - [x] Event handler async functie maken, die wordt uigevoerd als je klikt
+        - [x] requist naar de api 
+            - [x] axios installeren/importeren
+            - [x] url opzoeken voor belgie (api docs)
+            - [x] axios.get(url)     
+            - [x] Await ervoor zetten (anders krijg je een promise)
+            - [x] we hebben de data (loggen)
 
 
         
